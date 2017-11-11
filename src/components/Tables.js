@@ -4,7 +4,7 @@ function Tables(props) {
   return (
     <div>
       Check out my table!
-    </div
+    </div>
   );
 }
 

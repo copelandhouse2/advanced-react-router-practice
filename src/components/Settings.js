@@ -4,7 +4,7 @@ function Settings(props) {
   return (
     <div>
       Check out my settings!
-    </div
+    </div>
   );
 }
 

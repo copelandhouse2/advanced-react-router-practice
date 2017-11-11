@@ -4,7 +4,7 @@ function Wall(props) {
   return (
     <div>
       Check out my wall!
-    </div
+    </div>
   );
 }
 
