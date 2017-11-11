@@ -1,10 +1,11 @@
 import React from "react";
 import TopNav from "./components/TopNav";
 import SideNav from "./components/SideNav";
+import { BrowserRouter, Switch, Route } from "react-router-dom"
 
 function App() {
   return (
-    <div> 
+    <div>
       <div id="wrapper">
         <nav className="navbar navbar-inverse navbar-fixed-top" role="navigation">
           <TopNav />
